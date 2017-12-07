@@ -1,0 +1,13 @@
+#
+# The two letter codes are defined by ISO 639-1
+# http://en.wikipedia.org/wiki/List_of_ISO_639_codes
+ 
+MYSENDHTTPGET
+	EN	MySendHTTPGET
+	DA	MySendHTTPGET
+	DE	MySendHTTPGET
+SETTINGS_MENU
+	EN	MySendHTTPGET Settings
+	DA	MySendHTTPGET Indstillinger
+	DE	MySendHTTPGET Einstellen
+	
